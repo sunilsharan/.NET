@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Jwt.Authentication/Jwt.Authentication/bin/Debug/netcoreapp3.1
+/Jwt.Authentication/Jwt.Authentication/obj
+/Jwt.Authentication/.vs/Jwt.Authentication
